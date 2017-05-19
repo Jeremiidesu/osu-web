@@ -27,13 +27,13 @@ return [
             'exhausted' => 'Vous avez atteint la limite quotidienne de nomination, veuillez réessayer demain.',
         ],
         'resolve' => [
-            'general_discussion' => 'La discussion générale ne peut être lu.',
-            'not_owner' => 'Uniquement le rédacteur du post et le créateur de la beatmap peut voir ce sujet.',
+            'general_discussion' => 'La discussion générale ne peut être lue.',
+            'not_owner' => 'Uniquement le rédacteur du post et le créateur de la beatmap peuvent voir ce sujet.',
         ],
 
         'vote' => [
             'limit_exceeded' => "Veuillez attendre un peu avant d'envoyer votre vote",
-            'owner' => 'Vous ne pouvez pas voter pour votyre propre discussion!',
+            'owner' => 'Vous ne pouvez pas voter pour votre propre discussion!',
         ],
     ],
 
@@ -137,9 +137,9 @@ return [
 
     'unauthorized' => 'Accès refusé.',
 
-    'silenced' => 'Impossible : vous êtes restreint.',
+    'silenced' => 'Impossible : vous êtes réduit au silenbe.',
 
-    'restricted' => 'Impossible : vous êtes réduit au silence.',
+    'restricted' => 'Impossible : vous êtes restreint.',
 
     'user' => [
         'page' => [
