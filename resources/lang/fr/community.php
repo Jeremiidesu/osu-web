@@ -28,20 +28,16 @@ return [
             'support_button' => 'Je veux supporter osu!',
         ],
 
-        'dev_quote' => "osu! est un free-to-play complet, mais le maintenir n'est pas gratuit. Entre le prix des serveurs et de la grande bande passante internationale, le temps passé à maintenir le système et la communauté, parvenir des prix pour les compétitions, répondre aux questions du support et généralement garder les gens heureux, osu! consomme une certaine somme d'argent! Oh, et n'oubliez pas le fait que nous le faisons sans pub ou partenariat avec des toolbars ou autres!
-                    <br/><br/>osu! est à largement développé par moi-même, pour cela vous me connaisez sûrement avec le surnom \"peppy\".
-                    J'ai du quitté mon travail à temps plein pour garder le rythme avec osu!,
-                    et à certains moments je lutte pour garder mes standards.
-                    J'aurais aimé d'offrir mes remerciments personnels pour ceux qui ont supporté osu! jusque là,
-                    et aussi ceux qui continueront à supporter ce super jeu et la communauté dans le futur :).",
+        'dev_quote' => "osu! est entièrement free-to-play, mais le maintenir n'est définitivement pas gratuit. Entre les coûts des serveurs et de bande passante internationale de qualité, le temps passé à maintenir le système et la communauté, donner des prix aux compétitions, répondre au support et généralement rentre tout le monde heureux, osu! coûte plutôt cher ! Ah, et n'oubliez pas que nous faisons tout ça sans publicités, barres d'outils ou autres trucs du genre !
+<br/><br/>osu! est au final maintenu principalement par moi-même, que vous devez mieux connaitre sous le nom de \"peppy\". J'ai du quitter mon emploi pour suivre le rythme avec osu!, et je lutte quelque fois à maintenir les standards que je m'efforce de respecter. J'aimerais offrir mes remerciements à tout ceux qui ont supporté osu! jusqu'ici, et aussi à ceux qui continue de supporter cet super jeu et la communauté dans le futur :).",
 
         'why_support' => [
             'title' => 'Pourquoi je supporterais osu!?',
             'blocks' => [
-                'dev' => 'Développé et maitenu par une seule personne en Australie',
-                'time' => "Prend tellement de temps pour le maitenir que ce n'est plus possible d'appeler ça un \"hobby\".",
-                'ads' => "Aucune pub, nullepart. <br/><br/>
-                        Pas comme 99,95% des sites, nous ne profitons pas de votre clic pour l'argent.",
+                'dev' => 'Développé et maintenu principalement par une seule personne en Australie',
+                'time' => "Prend tellement de temps pour le maintenir que ce n'est plus possible d'appeler ça un \"hobby\".",
+                'ads' => "Aucune pub, nulle part. <br/><br/>
+                        Contrairement à 99,95% des sites, nous ne faisons pas d'argent en vous balançant des choses en pleine face.",
                 'goodies' => 'Vous obtiendrez des goodies!',
             ],
         ],
