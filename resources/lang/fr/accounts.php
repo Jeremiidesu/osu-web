@@ -20,11 +20,11 @@
 
 return [
     'edit' => [
-        'title' => 'Paramètres de compte <strong>Compte</strong>',
+        'title' => 'Paramètres du <strong>compte</strong>',
         'title_compact' => 'paramètres',
 
         'avatar' => [
-            'title' => "Éditer l'Avatar",
+            'title' => "Éditer l'avatar",
         ],
 
         'email' => [
@@ -42,7 +42,7 @@ return [
         ],
 
         'profile' => [
-            'title' => 'Éditer le Profil',
+            'title' => 'Éditer le profil',
 
             'user' => [
                 'user_from' => 'localisation actuelle',
